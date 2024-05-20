@@ -74,9 +74,7 @@ form input.sty{
     text-align: center;
 }
 
-
-
-@media (min-width:400px) and (max-width:300px)
+@media (min-width:360px) and (max-width:400px)
 {
     .container{
         display: flex;
@@ -86,7 +84,7 @@ form input.sty{
         justify-content: center;
         align-items: center;
     }
-    
+
     .calculator{
         padding: 15px;
         height: 480px;
@@ -121,8 +119,7 @@ form input.sty{
         animation: none;
     }
 }
-
-@media (min-width:360px) and (max-width:200px)
+@media (max-width:360px)
 {
     .container{
         display: flex;
@@ -132,7 +129,7 @@ form input.sty{
         justify-content: center;
         align-items: center;
     }
-    
+
     .calculator{
         padding: 15px;
         height: 350px;
