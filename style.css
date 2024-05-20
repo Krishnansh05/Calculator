@@ -78,6 +78,15 @@ form input.sty{
 
 @media (min-width:400px) and (max-width:300px)
 {
+    .container{
+        display: flex;
+        height: 100vh;
+        width: 100%;
+        background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
+    }
+    
     .calculator{
         padding: 15px;
         height: 480px;
@@ -115,6 +124,15 @@ form input.sty{
 
 @media (min-width:360px) and (max-width:200px)
 {
+    .container{
+        display: flex;
+        height: 100vh;
+        width: 100%;
+        background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
+    }
+    
     .calculator{
         padding: 15px;
         height: 350px;
