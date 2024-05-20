@@ -76,7 +76,7 @@ form input.sty{
 
 
 
-@media (min-width:300px) and (max-width:400px)
+@media (min-width:400px) and (max-width:300px)
 {
     .calculator{
         padding: 15px;
@@ -113,7 +113,7 @@ form input.sty{
     }
 }
 
-@media (min-width:200px) and (max-width:360px)
+@media (min-width:360px) and (max-width:200px)
 {
     .calculator{
         padding: 15px;
