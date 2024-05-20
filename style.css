@@ -131,36 +131,36 @@ form input.sty{
     }
 
     .calculator{
-        padding: 15px;
-        height: 350px;
-        width: 200px;
+        padding: 13px;
+        height: 320px;
+        width: 180px;
     }
 
     .calculator form input{
-        width: 46px;
-        height: 46px;
+        width: 42px;
+        height: 42px;
         border-radius: 17px;
         margin-top: 3px;
         font-size: 15px;
     }
 
     form input.equal{
-        width: 96px 
+        width: 88px 
     }
 
     .text{
-        font-size: 25px;
+        font-size: 23px;
         margin-top: 3px;
-        margin-bottom: 5px;
+        margin-bottom: 4px;
     }
 
     form .display input{
         flex: 1;
         text-align: right;
-        font-size: 20px;
+        font-size: 15px;
         border-radius: none;
         border-radius: 3px; 
-        padding: 0px 10px;
+        padding: 0px 8px;
         animation: none;
     }
 }
